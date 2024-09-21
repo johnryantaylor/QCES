@@ -1,2 +1,4 @@
 # QCES
-Computational projects for Quantitative Climate and Environmental Science
+Computational projects for Quantitative Climate and Environmental Science course
+
+
