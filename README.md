@@ -17,3 +17,4 @@ We recommend that you use Github to keep your notebooks up to date with any bug 
 - If you are asked how you are planning to use this fork, select "For my own purposes"
 - You can now edit the files on your laptop and "push" the changes to your GitHub repository
 
+The projects are designed to be run in Google Colab. Each Jupyter notebook has a link at the top to open the notebook in Colab. Remember to save the notebook as you are working on it! To "push" any changes from Colab to Github, using the "File" menu in Colab, select "Save a copy in GitHub".
