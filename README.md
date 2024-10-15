@@ -9,7 +9,7 @@ We recommend that you use Github to keep your notebooks up to date with any bug 
 - If you don't already have one, create a free account on http://github.com (click the sign-up button in the top right corner).
 - Log in to http://github.com, then re-open this page and fork this repository (click the "Fork" button in the upper right).
 
-<ins>Instructions to install Github Desktop for offline editing on your laptop<\ins>
+<ins>Instructions to install Github Desktop for offline editing on your laptop</ins>
 - Download and install GitHub Desktop here: https://desktop.github.com
 - Run GitHub Desktop and sign in using your GitHub account
 - In GitHub Desktop, select Clone Repository from the File menu
