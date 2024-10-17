@@ -9,7 +9,7 @@ We recommend that you use Github to keep your notebooks up to date with any bug 
 - If you don't already have one, create a free account on http://github.com (click the sign-up button in the top right corner).
 - Log in to http://github.com, then re-open this page and fork this repository (click the "Fork" button in the upper right).
 
-<ins>Instructions to install Github Desktop for offline editing on your laptop<\ins>
+<ins>Instructions to install Github Desktop for offline editing on your laptop</ins>
 - Download and install GitHub Desktop here: https://desktop.github.com
 - Run GitHub Desktop and sign in using your GitHub account
 - In GitHub Desktop, select Clone Repository from the File menu
@@ -17,3 +17,4 @@ We recommend that you use Github to keep your notebooks up to date with any bug 
 - If you are asked how you are planning to use this fork, select "For my own purposes"
 - You can now edit the files on your laptop and "push" the changes to your GitHub repository
 
+The projects are designed to be run in Google Colab. Each Jupyter notebook has a link at the top to open the notebook in Colab. Remember to save the notebook as you are working on it! To "push" any changes from Colab to Github, using the "File" menu in Colab, select "Save a copy in GitHub".
