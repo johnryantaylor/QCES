@@ -1,0 +1,17 @@
+{
+  "name": "QCES",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "containerEnv": {
+    "OMP_NUM_THREADS": "1",
+    "NUMEXPR_MAX_THREADS": "1"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+ipympl
+jupyter
+cython
+mpi4py
